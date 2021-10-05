@@ -1,0 +1,1 @@
+elem.style.backgroundColor = `#${Math.random().toString(16).slice(3, 9)}`;
